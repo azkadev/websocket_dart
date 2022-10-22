@@ -19,7 +19,6 @@ void main(List<String> arguments) {
 
   stdin.listen((event) {
     String data = utf8.decode(event);
-
     ws.clientSend(data);
   });
 }
