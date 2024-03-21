@@ -1,5 +1,8 @@
-# Websocket client and server dart simple auto reconnect
+IyBXZWJzb2NrZXQgY2xpZW50IGFuZCBzZXJ2ZXIgZGFydCBzaW1wbGUgYXV0
+byByZWNvbm5lY3QKCj4gV2Vic29ja2V0IGNsaWVudCBhbmQgc2VydmVyIGRh
+cnQgc2ltcGxlIGF1dG8gcmVjb25uZWN0CgpbU3BlZWQtQ29kZV0oaHR0cHM6
+Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1hTGVVRTFoRXVsRSkK
 
-> Websocket client and server dart simple auto reconnect
-
-[Speed-Code](https://www.youtube.com/watch?v=aLeUE1hEulE)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
